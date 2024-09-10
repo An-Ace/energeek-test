@@ -1,0 +1,15 @@
+name: energeek
+services:
+  postgres:
+    container_name: energeek_db
+    image: 'postgres'
+    ports:
+      - '5432:5432'
+    environment:
+      POSTGRES_PASSWORD: 'postgres'
+      POSTGRES_USER: 'postgres'
+      POSTGRES_DB: 'energeek_nasrulloh'
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+volumes:
+  postgres_data:

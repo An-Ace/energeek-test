@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: 'Poppins', Helvetica, Arial, sans-serif;
+}
+
+.swal2-title {
+  padding: 0 1em 0 !important;
+}
+.swal2-cancel {
+  color: #7E8299 !important;
+
+}
