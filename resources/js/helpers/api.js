@@ -4,7 +4,7 @@ import { toast } from 'vue3-toastify'; // Adjust if using Vue-specific Toast lib
 
 // Create an Axios instance
 const api = axios.create({
-  baseURL: process.env.IS_LIVE_SERVER ? 'http://www.ditopupin.com': 'http://localhost:8000', // Replace with your API base URL
+  baseURL: 'http://www.ditopupin.com', // Replace with your API base URL
   timeout: 10000,
 });
 
