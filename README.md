@@ -1,5 +1,5 @@
 # Energeek Test By Muhammad Nasrulloh
-### This App use Laravel 11.9 and Vue 3.x with other deps
+### This App use Laravel 11.9, Vue 3.x, tailwindCSS as UI Utility and with other deps.
 ## Installation
 set enable ;extension=pgsql & ;extension=pdo_pgsql php.ini to like:
 ```bash
