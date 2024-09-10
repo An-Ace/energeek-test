@@ -1,0 +1,38 @@
+{
+  "public/energeek.png": {
+    "file": "assets/energeek-J6K-Y9f9.png",
+    "src": "public/energeek.png"
+  },
+  "public/plus.svg": {
+    "file": "assets/plus-B-whBSh4.svg",
+    "src": "public/plus.svg"
+  },
+  "public/save.svg": {
+    "file": "assets/save-D1AXw48Y.svg",
+    "src": "public/save.svg"
+  },
+  "public/trash.svg": {
+    "file": "assets/trash-CtaiQmKx.svg",
+    "src": "public/trash.svg"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-C5klUb9I.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "css": [
+      "assets/app-CAnZ0dOk.css"
+    ],
+    "assets": [
+      "assets/energeek-J6K-Y9f9.png",
+      "assets/plus-B-whBSh4.svg",
+      "assets/trash-CtaiQmKx.svg",
+      "assets/save-D1AXw48Y.svg"
+    ]
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app-kt95qsCJ.css",
+    "src": "resources/sass/app.scss",
+    "isEntry": true
+  }
+}
