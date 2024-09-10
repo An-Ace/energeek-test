@@ -30,7 +30,7 @@ php artisan serve
 Open Link:
 [Local Url](http://localhost:8000)
 
-Or You can open with My Live Server: [Live Server](http://localhost:8000)
+Or You can open with My Live Server: [Live Server](http://www.ditopupin.com)
 
 
 ### Postman API Documentation
